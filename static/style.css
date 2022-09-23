@@ -1,0 +1,67 @@
+
+.d-block,
+w-100 {
+  object-fit: cover;
+}
+
+.line1 {
+  margin: auto;
+}
+
+.card-img-top,
+img-fluid{
+  height: 250px;
+  object-fit: cover;
+}
+
+.card {
+  text-align: center;
+  background-color: rgb(214, 226, 236);
+  color: rgb(0, 0, 0);
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.dropdown-menu {
+  background-image: none;
+  background-color: rgb(48, 45, 45)
+}
+
+.dropdown-menu>li>a:hover {
+  background-image: none;
+  background-color: rgb(48, 45, 45)
+}
+
+div.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
+  text-align: center;
+}
+
+div.contact{
+margin-top: 25px;
+margin-bottom: 2rem;
+font-family: dinpro, sans-serif;
+font-weight: 300;
+font-size: large;
+width: 100%;
+box-shadow: 0 6px 15px 0 rgba(0, 0, 0, 0.3), 0 6px 15px 0 rgba(0, 0, 0, 0.20);
+border-radius: 10px;
+background-color: azure;
+}
+
+div.maps{
+  background-color: azure;
+  box-shadow: 0 6px 15px 0 rgba(0, 0, 0, 0.3), 0 6px 15px 0 rgba(0, 0, 0, 0.20);
+  border-radius: 10px;
+}
+
+#headcontact{
+  font-family: dinpro, sans-serif;
+  background-color: rgb(210, 247, 247);
+  padding-bottom: 7px;
+  border-radius: 5px;
+
+}
